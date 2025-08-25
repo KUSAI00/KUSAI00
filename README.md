@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @KUSAI00
-- 👀 I’m interested in Computer field & Signal proccesing
-- 🌱 I’m currently learning Computer netwarking
-- 💞️ I’m looking to collaborate on New Projects
-- 📫 How to reach me qusaijh482@gmail.com
+# 👋 Hi, I'm Kusai
 
-<!---
-KUSAI00/KUSAI00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 AI Master's student  
+🧠 Focused on NLP & RL
+💻 Skilled in PyTorch, TensorFlow. 
+📚 Exploring neural architectures & intelligent agents  
+🤝 Open to research collaborations and innovative AI projects 
+📫 Reach me: qusaijh482@gmail.com
