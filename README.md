@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kusai
 
-🎓 AI Master's student  
+🎓 Master's student in Artificial Intelligence
 🧠 Focused on NLP & RL
 💻 Skilled in PyTorch, TensorFlow. 
 📚 Exploring neural architectures & intelligent agents  
