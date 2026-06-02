@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Kusai
 
-🎓 Master's student in Artificial Intelligence
-🧠 Focused on NLP & RL
-💻 Skilled in PyTorch, TensorFlow. 
-📚 Exploring neural architectures & intelligent agents  
-🤝 Open to research collaborations and innovative AI projects 
-📫 Reach me: qusaijh482@gmail.com
+🎓 MSc Artificial Intelligence @ University of Bologna · graduating Sept 2026
+🧠 I build LLM systems, retrieval pipelines, and applied ML projects
+🛠️ Python · PyTorch · Hugging Face · Gemini · ChromaDB · GNNs
+🚀 Open to AI / ML Engineer roles in Bologna or remote
+📫 kusai.aljuhmani@studio.unibo.it
