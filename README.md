@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kusai
 
-🎓 MSc Artificial Intelligence @ University of Bologna · graduating Sept 2026
-🧠 I build LLM systems, retrieval pipelines, and applied ML projects
-🛠️ Python · PyTorch · Hugging Face · GNNs
+🎓 MSc Artificial Intelligence @ University of Bologna · graduating Oct 2026
+🧠 I build LLMs, forecasting, and agent harnesses
+🛠️ Python · PyTorch · TensorFlow · ChromaDB
 🚀 Open to AI / data Engineering roles on-site or remote
 📫 qusaijh482@gmail.com
